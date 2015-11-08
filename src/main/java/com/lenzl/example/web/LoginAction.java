@@ -7,7 +7,7 @@ public class LoginAction {
 	 */
 	public static void main(String[] args) {
 		//init()
-		//d1ev()
+		//git is goog tool
 	}
 
 }
