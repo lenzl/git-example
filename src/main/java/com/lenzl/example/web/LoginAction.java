@@ -7,7 +7,7 @@ public class LoginAction {
 	 */
 	public static void main(String[] args) {
 		//init()
-		//Creating a new branch is quick AND simple
+		//Creating a new branch is quick & simple
 	}
 
 }
