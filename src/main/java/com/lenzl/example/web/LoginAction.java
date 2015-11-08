@@ -7,7 +7,7 @@ public class LoginAction {
 	 */
 	public static void main(String[] args) {
 		//init()
-		//git is goog tool
+		//Creating a new branch is quick AND simple
 	}
 
 }
